@@ -2,6 +2,10 @@
 
 ![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
+## Detalhes
+
+O projeto conta com uma barrad e pesquisa por IP que mostra no mapa a localização do IP pesquisado, conta tambem com sua versão responsiva.
+
 ## Welcome! 👋
 
 [BregueNice version](https://ip-address-tracker-inky-one.vercel.app/)
